@@ -1,4 +1,6 @@
-### Hi there 👋
+### Exterminate5573
+
+<img src="https://topg.org/image/451121/433963.gif" alt="Exterminate5573 SIGMA HATAR">
 
 <!--
 **Exterminate5573/Exterminate5573** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

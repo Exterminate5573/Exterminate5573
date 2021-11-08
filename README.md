@@ -6,6 +6,11 @@
 ███████╗██╔╝ ██╗   ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║   ██║   ███████╗<br>
 ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚══════╝<br>
 <p>
+ 
+ <p align='center'>
+  ez
+  nocap
+ </p>
 
 <p align='center'>
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Exterminate5573&style=flat&labelColor=black&logo=github&label=Profile+Views&color=0d8ce0"/>

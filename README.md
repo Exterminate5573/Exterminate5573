@@ -1,5 +1,5 @@
 <p align='center'>
-###Exterminate5573
+Exterminate5573
 </p>
 
 <p align='center'>

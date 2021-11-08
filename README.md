@@ -4,4 +4,7 @@
 
 <img src="https://topg.org/image/451121/433963.gif" alt="Exterminate5573 SIGMA HATAR">
 
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCE96Qs22Mfto-ZlfI63morA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />                                                                                                                                    </a>
+
 

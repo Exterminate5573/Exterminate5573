@@ -7,7 +7,7 @@
 </p>
  
 <p align='center'>
-<img src="https://topg.org/image/451121/433963.gif" alt="Exterminate5573 SIGMA HATAR">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/5hFFlds"  ><a href="//imgur.com/a/5hFFlds">Exterminate is a retard</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </p>
 
 <p align='center'>

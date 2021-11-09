@@ -1,17 +1,9 @@
 <p align='center'>
- <strong> Exterminate </strong>
-</p>
-
-<p align='center'>
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=Exterminate5573&style=flat&labelColor=black&logo=github&label=Profile+Views&color=0d8ce0"/>
-</p>
- 
-<p align='center'>
 <img src="https://i.imgur.com/uNafKE3.gif"/>
 </p>
 
 <p align='center'>
-<img src="https://i.imgur.com/CmgclEK.gif"/>
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=Exterminate5573&style=flat&labelColor=black&logo=github&label=Profile+Views&color=0d8ce0"/>
 </p>
 
 <p align='center'>
@@ -24,6 +16,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Exterminate5573&show_icons=true&theme=algolia&hide_title=true&count_private=true" />
+</p>
+
+<p align='center'>
+<img src="https://i.imgur.com/CmgclEK.gif"/>
 </p>
 
 

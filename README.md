@@ -7,7 +7,7 @@
 </p>
  
 <p align='center'>
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/5hFFlds"  ><a href="//imgur.com/a/5hFFlds">Exterminate is a retard</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://i.imgur.com/uNafKE3.gif"/>
 </p>
 
 <p align='center'>

@@ -11,6 +11,10 @@
 </p>
 
 <p align='center'>
+  <img src"https://i.imgur.com/CmgclEK.gif"/>
+</p>
+
+<p align='center'>
  <img src="https://discord.c99.nl/widget/theme-2/598354701536329728.png">
 </p>
 

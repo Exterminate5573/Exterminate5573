@@ -11,7 +11,7 @@
 </p>
 
 <p align='center'>
- <img src="https://gen.plancke.io/exp/Exterminate5573.png">
+ <img src="https://gen.plancke.io/exp/ExterminateYT.png">
 </p>
 
 <p align="center">

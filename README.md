@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Exterminate5573&show_icons=true&theme=algolia&hide_title=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Exterminate5573&show_icons=true&theme=aura_dark&hide_title=true&count_private=true" />
 </p>
 
 <p align='center'>

@@ -33,7 +33,7 @@ I like playing video games and I am looking into programming them.
 </p>
 
 <p align='center'>
- <img src="https://gen.plancke.io/exp/ExterminateYT.png">
+ <img src="https://gen.plancke.io/exp/78698edb-022f-4f5d-bfd2-67bb396de06b.png">
 </p>
 
 <p align="center">

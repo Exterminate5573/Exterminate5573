@@ -1,6 +1,6 @@
 # Hi, I'm Exterminate
 
-I'm a 16 year old self learning programmer. <br>
+I'm a 17 year old self learning programmer. <br>
 I like playing video games and I am looking into programming them.
 
 ## Stuff I know:

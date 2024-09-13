@@ -18,6 +18,7 @@ I like playing video games and I am looking into programming them.
 
 ## Stuff I'm learning:
 ![C++](https://img.shields.io/badge/C++-25a2f3.svg?style=for-the-badge&logo=cpp&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-000000?style=for-the-badge&logo=zig)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%235586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 ![UnrealEngine](https://img.shields.io/badge/Unreal%20Engine-%230E1128?style=for-the-badge&logo=unrealengine&logoColor=white)

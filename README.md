@@ -38,10 +38,6 @@ I like playing video games and I am looking into programming them.
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCE96Qs22Mfto-ZlfI63morA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />                                                                                                                                    </a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Exterminate5573&show_icons=true&theme=aura_dark&hide_title=true&count_private=true" />
 </p>
 

@@ -26,6 +26,12 @@ I'm a 17-year-old self-taught programmer with a passion for video games and game
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
+## 🔒 Public Key
+Use this fingerprint to validate my commits.
+```
+SHA256:bycr+ZNa5cuH2EvCDfM64GjAGvyQN0UC5bq8eRFOMSQ
+```
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Exterminate5573&show_icons=true&theme=aura_dark&hide_title=true&count_private=true" alt="GitHub Stats" />

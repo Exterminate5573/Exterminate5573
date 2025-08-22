@@ -23,6 +23,7 @@ I'm a 17-year-old self-taught programmer with a passion for video games and game
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-000000?style=for-the-badge&logo=archlinux&logoColor=blue)
 ![KDE](https://img.shields.io/badge/KDE-000000?style=for-the-badge&logo=kde&logoColor=white)
 ![1Password](https://img.shields.io/badge/1Password-ffffff?style=for-the-badge&logo=1password&logoColor=blue)
+![Zed](https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 

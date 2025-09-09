@@ -1,6 +1,6 @@
 # Hi, I'm Exterminate 👋
 
-I'm a 17-year-old self-taught programmer with a passion for video games and game development. 🎮 I'm constantly learning and exploring new technologies to enhance my skills.
+I'm a 18-year-old self-taught programmer with a passion for video games and game development. 🎮 I'm constantly learning and exploring new technologies to enhance my skills.
 
 ## 🛠️ Skills
 ### Languages & Software
